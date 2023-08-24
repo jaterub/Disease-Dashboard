@@ -1,0 +1,9 @@
+Relación entre la fase del estudio y la duración del estudio: ¿Los estudios en fases posteriores (por ejemplo, la fase III) tienden a durar más tiempo que los estudios en fases anteriores (por ejemplo, la fase I o II)?
+
+Relación entre el investigador principal y la fase del estudio: ¿Algunos investigadores principales tienden a trabajar más en ciertas fases de los estudios que otros?
+
+Relación entre el sitio primario y la fase del estudio: ¿Los estudios de ciertos sitios primarios tienden a estar en fases posteriores más a menudo que los de otros sitios?
+
+Relación entre el sitio primario y la duración del estudio: ¿Los estudios de ciertos sitios primarios tienden a durar más tiempo que los de otros sitios?
+
+Relación entre el investigador principal y la duración del estudio: ¿Los estudios dirigidos por ciertos investigadores principales tienden a durar más tiempo que los dirigidos por otros?
